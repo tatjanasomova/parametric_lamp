@@ -1,38 +1,27 @@
 # grasshopper_template
 
-![Screenshot](/thumbnail.png)
+![Screenshot](/lamp.png)
 
 ## Difficulty 
-Simple
+Medium
 
 ## Description 
-INSERT HERE
+Here is a script to create a parametric lamp, ajust inputs to create a unique shape! Lamp can be placed in your Revit model or you can export it for laser cutting.
 
 ## Repository Ownership**
-* **Practice**: INSERT HERE
-* **Sector**: INSERT HERE
-* **Original Author(s)** INSERT HERE
+* **Practice**: Interior design, Architecture
+* **Sector**: Design
+* **Original Author(s)** Tatjana Somova
 * **Contact Details for Current Repository Owner(s)** tatjana.somova@mottmac.com
 
-## Installation Instructions**
-List of external packages:
-Githopper - Version=1.3.1, Snippets.scripting - Version=0.0.0.0, MetaHopper - Version=1.0.8.0
-
-In order to successfully run the code in this repository, it is recommended that you copy all external plugins used within the script to AppData folder and zip it.
-
-Path to the Grasshopper plugins:
-C:\Users\"your username"\AppData\Roaming\Grasshopper\Libraries
+
 
 ## Tested on**
 * **Rhino version**: 7
+* **Revit version**: 2021
 
 ## Running the Code
  ```
-Insert instructions on how to run the code here.
+WIP, instructions will be provided soon
 
 ```
-### Change Log 
-
-### Tags 
-grasshopper_template, Grasshopper
-
